@@ -1,0 +1,22 @@
+git status
+git add testing.py
+git status
+git commit -m "added testing file"
+git log
+git commit -m "added testing file"
+git config --global user.email "you@example.com"
+git config --global user.name "Deep"
+git commit -m "added testing file"
+git status
+git log
+rm testing.py
+git status
+
+git restore testing.py
+
+git remote add origin https://github.com/deepjasani7/github-for-devops.git
+git remote -v
+
+git remote set-url origin https://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@github.com/deepjasani7/github-for-devops.git      
+git remote v
+git push origin master
