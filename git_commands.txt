@@ -17,6 +17,4 @@ git restore testing.py
 git remote add origin https://github.com/deepjasani7/github-for-devops.git
 git remote -v
 
-git remote set-url origin https://github.com/deepjasani7/github-for-devops.git      
-git remote v
 git push origin master
